@@ -1,10 +1,14 @@
 /* Titre principal centré */
+
+* {
+  background-color: white;
+}
 h1 {
   text-align: center;
 }
 /* titres en couleur crimson */
 h1 ,h2{
-  color: pink;
+  color: Blue;
 }
 /* titres des sections soulignés */
 section h2 {text-decoration:underline;
