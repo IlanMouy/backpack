@@ -1,10 +1,21 @@
 /* Titre principal centré */
+<<<<<<< HEAD
+=======
+
+* {
+  background-color: white;
+}
+>>>>>>> version-light
 h1 {
   text-align: center;
 }
 /* titres en couleur crimson */
 h1 ,h2{
+<<<<<<< HEAD
   color: pink;
+=======
+  color: Blue;
+>>>>>>> version-light
 }
 /* titres des sections soulignés */
 section h2 {text-decoration:underline;
