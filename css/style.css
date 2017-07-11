@@ -1,21 +1,15 @@
 /* Titre principal centré */
-<<<<<<< HEAD
-=======
 
 * {
   background-color: white;
 }
->>>>>>> version-light
+
 h1 {
   text-align: center;
 }
 /* titres en couleur crimson */
 h1 ,h2{
-<<<<<<< HEAD
-  color: pink;
-=======
   color: Blue;
->>>>>>> version-light
 }
 /* titres des sections soulignés */
 section h2 {text-decoration:underline;
@@ -34,6 +28,7 @@ ul ul{
   list-style: square;
 }
 /* section accessoires sur un fond gris claire, avec un padding de 48px */
+
 .accessories {background : lightgrey;
   padding : 48px;
 }
