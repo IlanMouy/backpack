@@ -1,0 +1,28 @@
+/* Titre principal centré */
+h1 {
+  text-align: center;
+}
+/* titres en couleur crimson */
+h1 ,h2{
+  color: pink;
+}
+/* titres des sections soulignés */
+section h2 {text-decoration:underline;
+}
+/* les 2 listes en couleur SteelBlue */
+ol , ul {color:SteelBlue;
+
+}
+/* liste dans la section Selection en plus grand */
+section ul , ol
+{
+  font-size: 24px;
+}
+/* squares pour la sous-liste (stylo et notebook, médicaments ) */
+ul ul{
+  list-style: square;
+}
+/* section accessoires sur un fond gris claire, avec un padding de 48px */
+.accessories {background : lightgrey;
+  padding : 48px;
+}
